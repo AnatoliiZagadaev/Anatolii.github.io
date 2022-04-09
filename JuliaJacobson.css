@@ -221,3 +221,6 @@ p {
 .bloc:hover .innerBlockGallery { 
     display: flex; 
 }
+.autor{
+    text-align:right;
+}
