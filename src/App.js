@@ -24,13 +24,15 @@ function App() {
         <span className="container">
             <span className="row">        
                 <span className="logo"></span>
-                <span><span className="font_bolt">Julia Jacobson</span><br/> The Photographer</span>
+                <span>
+                    <span className="font_bolt">Julia Jacobson</span>
+                    <br/> The Photographer</span>
             </span>
             <span className="font_bolt">
                 <nav>
                     <ul>
                         <li><a className="link" href="#about">About</a></li>
-                        <li><a classname="link" href="#portfolio">Works</a></li>
+                        <li><a className="link" href="#portfolio">Works</a></li>
                         <li><a className="link" href="#instagramm">Instagramm</a></li>
                     </ul>
                 </nav>
@@ -66,7 +68,8 @@ function App() {
         <section>
             <header id="portfolio"><h1>My Last Works</h1></header>
             <span className="row_gallery">
-                <span className="bloc relative"><img src={autumnForest} alt=" Autumn Forest"/>
+                <span className="bloc relative">
+                    <img src={autumnForest} alt=" Autumn Forest"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Autumn forest</h1> 
@@ -75,7 +78,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space"></span>
-                <span className="bloc relative"><img src={duckOnTheWater} alt="Duck on the water"/>
+                <span className="bloc relative">
+                    <img src={duckOnTheWater} alt="Duck on the water"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Duck on the water</h1> 
@@ -84,7 +88,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space visible_false"></span>
-                <span className="bloc relative visible_false"><img src={dungeon} alt="The dungeon"/>
+                <span className="bloc relative visible_false">
+                    <img src={dungeon} alt="The dungeon"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>The dungeon</h1> 
@@ -94,7 +99,8 @@ function App() {
                 </span>
             </span>
             <span className="row_gallery">
-                <span className="bloc relative"><img src={autumnForest} alt="Autumn forest"/>
+                <span className="bloc relative">
+                    <img src={autumnForest} alt="Autumn forest"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Autumn forest</h1> 
@@ -103,7 +109,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space"></span>
-                <span className="bloc relative"><img src={duckOnTheWater} alt="Duck on the water"/>
+                <span className="bloc relative">
+                    <img src={duckOnTheWater} alt="Duck on the water"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Duck on the water</h1> 
@@ -112,7 +119,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space visible_false"></span>
-                <span className="bloc relative visible_false"><img src={dungeon} alt="The dungeon"/>
+                <span className="bloc relative visible_false">
+                    <img src={dungeon} alt="The dungeon"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>The dungeon</h1> 
@@ -122,7 +130,8 @@ function App() {
                 </span>
             </span>
             <span className="row_gallery">
-                <span className="bloc relative"><img src={autumnForest} alt="Autumn forest"/>
+                <span className="bloc relative">
+                    <img src={autumnForest} alt="Autumn forest"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Autumn forest</h1> 
@@ -131,7 +140,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space"></span>
-                <span className="bloc relative"><img src={duckOnTheWater} alt="Duck on the water"/>
+                <span className="bloc relative">
+                    <img src={duckOnTheWater} alt="Duck on the water"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Duck on the water</h1> 
@@ -140,7 +150,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space visible_false"></span>
-                <span className="bloc relative visible_false"><img src={dungeon} alt="The dungeon"/>
+                <span className="bloc relative visible_false">
+                    <img src={dungeon} alt="The dungeon"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>The dungeon</h1> 
@@ -150,7 +161,8 @@ function App() {
                 </span>
             </span>
             <span className="row_gallery">
-                <span className="bloc relative"><img src={autumnForest} alt="Autumn forest"/>
+                <span className="bloc relative">
+                    <img src={autumnForest} alt="Autumn forest"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Autumn forest</h1> 
@@ -159,7 +171,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space"></span>
-                <span className="bloc relative"><img src={duckOnTheWater} alt="Duck on the water"/>
+                <span className="bloc relative">
+                    <img src={duckOnTheWater} alt="Duck on the water"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Duck on the water</h1> 
@@ -168,7 +181,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space visible_false"></span>
-                <span className="bloc relative visible_false"><img src={dungeon} alt="The dungeon"/>
+                <span className="bloc relative visible_false">
+                    <img src={dungeon} alt="The dungeon"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>The dungeon</h1> 
@@ -178,7 +192,8 @@ function App() {
                 </span>
             </span>
             <span className="row_gallery">
-                <span className="bloc relative"><img src={bigCity} alt="Big city"/>
+                <span className="bloc relative">
+                    <img src={bigCity} alt="Big city"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Big city</h1> 
@@ -187,7 +202,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space visible_false"></span>
-                <span className="bloc relative visible_false" data-descr="Kitchen design"><img src={oceanBeach} alt="Ocean beach"/>
+                <span className="bloc relative visible_false" data-descr="Kitchen design">
+                    <img src={oceanBeach} alt="Ocean beach"/>
                     <span className="innerBlock absolute"> 
                         <span className="blocChild"> 
                             <h1>Ocean beach</h1> 
@@ -196,7 +212,8 @@ function App() {
                     </span>
                 </span>
             </span>
-            <span className="bloc relative visible_false"><img src={nationalPark} alt="National Park"/>
+            <span className="bloc relative visible_false">
+                <img src={nationalPark} alt="National Park"/>
                 <span className="innerBlock absolute"> 
                     <span className="blocChild"> 
                         <h1>National Park</h1> 
@@ -206,9 +223,12 @@ function App() {
         </span>
         </section>
         <section>
-            <header id="instagramm"><h1>Follow me on Instagram</h1></header>
+            <header id="instagramm">
+                <h1>Follow me on Instagram</h1>
+            </header>
             <span className="row_gallery">
-                <span className="bloc relative"><img src={tangerineAndChocolate} alt="Tangerine And Chocolate"/>
+                <span className="bloc relative">
+                    <img src={tangerineAndChocolate} alt="Tangerine And Chocolate"/>
                     <span className="innerBlockGallery absolute"> 
                         <span className="blocChild"> 
                             <img src={search} alt="Search"/> 
@@ -216,7 +236,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space"></span>
-                <span className="bloc relative"><img src={manOnTheStone} alt=" Man on the stone"/>
+                <span className="bloc relative">
+                    <img src={manOnTheStone} alt=" Man on the stone"/>
                     <span className="innerBlockGallery absolute"> 
                         <span className="blocChild"> 
                             <img src={search} alt="Search"/> 
@@ -224,7 +245,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space"></span>
-                <span className="bloc relative"><img src={youngGirl} alt="Young girl"/>
+                <span className="bloc relative">
+                    <img src={youngGirl} alt="Young girl"/>
                     <span className="innerBlockGallery absolute"> 
                         <span className="blocChild"> 
                             <img src={search} alt="Search"/> 
@@ -232,7 +254,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space"></span>
-                <span className="bloc relative"><img src={pieceOfPie} alt="Piece of pie"/>
+                <span className="bloc relative">
+                    <img src={pieceOfPie} alt="Piece of pie"/>
                     <span className="innerBlockGallery absolute"> 
                         <span className="blocChild"> 
                             <img src={search} alt="Search"/> 
@@ -240,7 +263,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space visible_false"></span>
-                <span className="bloc relative visible_false"><img src={theTablet} alt="The tablet"/>
+                <span className="bloc relative visible_false">
+                    <img src={theTablet} alt="The tablet"/>
                     <span className="innerBlockGallery absolute"> 
                         <span className="blocChild"> 
                             <img src={search} alt="Search"/> 
@@ -248,7 +272,8 @@ function App() {
                     </span>
                 </span>
                 <span className="space visible_false"></span>
-                <span className="bloc relative visible_false"><img src={volleyball} alt="Volleyball"/>
+                <span className="bloc relative visible_false"
+                ><img src={volleyball} alt="Volleyball"/>
                     <span className="innerBlockGallery absolute"> 
                         <span className="blocChild"> 
                             <img src={search} alt="Search"/>  
